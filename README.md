@@ -1,5 +1,15 @@
 # Yosefario
 
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=█▓▒▒░░░+ARCHITECTING+THE+FUTURE+░░░▒▒▓█;Building+Secure+Systems;Privacy-First+Development;Automating+Tomorrow" alt="Typing SVG" />
+
+</div>
+
+---
+
+## Overview
+
 ```javascript
 while (alive) {
   eat();
@@ -9,35 +19,53 @@ while (alive) {
 }
 ```
 
-## About
+Full-stack developer focused on automation, security, and building systems that solve real problems. Creating technology that respects user privacy and enhances human potential.
 
-Full-stack developer focused on automation, security, and building systems that solve real problems. I create technology that helps people work more efficiently and live better digital lives.
+## Current Work
 
-## Areas of Focus
+Building secure infrastructure and educational platforms. Most development occurs in private repositories focused on:
 
-- **Automation Systems** - Designing solutions that eliminate repetitive tasks
-- **Cybersecurity** - Research in privacy, encryption, and secure communications
-- **Educational Technology** - Making technical knowledge accessible to everyone
-- **AI Integration** - Implementing practical machine learning solutions
+- **Privacy-preserving technologies** - End-to-end encrypted systems
+- **Distributed systems architecture** - Scalable, resilient infrastructure
+- **Educational technology solutions** - Democratizing knowledge access
+- **Automation frameworks** - Eliminating repetitive tasks
 
 ## Philosophy
 
-I believe in:
-- Building tools that respect user privacy and autonomy
-- Elegant solutions over complex implementations
-- Technology as a means to enhance human potential
-- Open knowledge sharing and collaborative advancement
+> Technology should enhance autonomy, not compromise it.
 
-## Projects
+Elegant solutions over complex implementations. Open knowledge sharing where appropriate. Building for humans, not metrics.
 
-Currently developing multiple open-source and educational platforms aimed at bringing diverse communities together and enhancing online security. My work spans from media platforms to AI-powered moderation systems.
+## Select Projects
 
-## Connect
+Limited public repositories available. Key areas of focus include encrypted communications, decentralized services, and developer tools. 
 
-Feel free to reach out if you're interested in collaboration or have questions about my work.
+Active development continues across multiple domains with selective open-source contributions.
+
+## Contact
+
+Open to discussing interesting problems and collaboration opportunities.
+
+```
+github@yosefario.me
+```
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TechVoid-Co-blue?style=flat-square" alt="TechVoid Co">
+  
+  <a href="https://yosefario.me">
+    <img src="https://img.shields.io/badge/Portfolio-yosefario.me-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggN0g2QzQuODk1NDMgNyA0IDcuODk1NDMgNCA5VjE4QzQgMTkuMTA0NiA0Ljg5NTQzIDIwIDYgMjBIMThDMTkuMTA0NiAyMCAyMCAxOS4xMDQ2IDIwIDE4VjlDMjAgNy44OTU0MyAxOS4xMDQ2IDcgMTggN0gxNk04IDdWNUM4IDMuODk1NDMgOC44OTU0MyAzIDEwIDNIMTRDMTUuMTA0NiAzIDE2IDMuODk1NDMgMTYgNVY3TTggN0gxNiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://yosefario.xyz">
+    <img src="https://img.shields.io/badge/Blog-yosefario.xyz-000000?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog">
+  </a>
+  
+  <br><br>
+  
+  <a href="https://techvoid.co">
+    <img src="https://img.shields.io/badge/TechVoid_Co.-Building_Tomorrow-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMyA3VjE3TDEyIDIyTDIxIDE3VjdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPg==" alt="TechVoid Co">
+  </a>
+  
 </div>
